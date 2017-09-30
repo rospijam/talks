@@ -10,8 +10,6 @@
 
 - Will you be doing hands-on demo as well?
 
-- Link to ipython notebook (if any)
-
 - About yourself
 
 - Are you comfortable if the talk is recorded and uploaded to PyData Delhi's YouTube channel ?
