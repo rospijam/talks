@@ -12,6 +12,6 @@
 
 - About yourself
 
-- Are you comfortable if the talk is recorded and uploaded to PyData Delhi's YouTube channel ?
+- Are you comfortable if the talk is recorded and uploaded to ROSPi Jam Delhi's YouTube channel ?
 
 - Any query ?
